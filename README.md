@@ -1,6 +1,7 @@
 
-# Vertical News Ticker for JQuery
+# Parse local Atom or RSS Feeds with jQuery
 
-- fork of the Vertical News Ticker by Tadas Juozapaitis (kasp3rito@gmail.com)
-- source was here: http://www.jugbit.com/jquery-vticker-vertical-news-ticker/,
-  but is not reachable anymore :(
+This jQuery plugin is based on the on jFeed by Jean-François Hovinne.
+See [jFeed Homepage](http://hovinne.com/articles/jfeed-jquery-rss-atom-feed-parser-plugin) for more information about it.
+
+It parses only titles and descriptions of RSS 0.91, 0.92, 1.0, 2.0 and Atom 1.0 feeds.
