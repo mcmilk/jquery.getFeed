@@ -11,7 +11,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
- * Based on code by Jean-François Hovinne
+ * Based on code by Jean-François Hovinne, http://hovinne.com/
  * Homepage: https://github.com/mcmilk/jquery.getFeed/
  */
 
